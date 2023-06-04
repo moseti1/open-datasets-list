@@ -1,2 +1,3 @@
-# open-datasets-list
-Curated List of Open Source Datasets for Awesome Data Science Projects. 
+# Open-Datasets-List
+
+**Curated List of Open Source Datasets for Awesome Data Science Projects.**
